@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-![Banner](/Users/prabhsandhu/Movie Recommender System/assets/Screenshot 2025-11-08 at 2.56.52 PM.png)
+![Banner](assets/screenshot.png)
 
 ---
 
