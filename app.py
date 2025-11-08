@@ -9,11 +9,8 @@ import pickle
 import requests
 import os
 
-
-
-
 def fetch_poster(movie_id):
-       API_KEY = "8cc67305b76b904f9ee991a5e895e86f"
+       API_KEY = os.getenv("MOVIES_API_TOKEN")
        url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=en-US"
        response = requests.get(url)
        data = response.json()
