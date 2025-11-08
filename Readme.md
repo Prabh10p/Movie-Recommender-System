@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-![Banner](assets/screenshot1.png)
+![Banner](assets/Screenshot1.png)
 
 
 ---
