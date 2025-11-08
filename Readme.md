@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-![Banner](assets/Screenshot 2025-11-08 at 2.56.52 PM.png)
+![Banner]("assets/Screenshot 2025-11-08 at 2.56.52 PM.png")
 
 ---
 
