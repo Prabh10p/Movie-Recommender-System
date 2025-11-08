@@ -39,21 +39,17 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 
 ## 📂 Project Structure
 
-Movie-Recommender-System/
-│
-
-├── app.py # Streamlit application
-
-├── Artifacts/
-│ └── Models/
-│ ├── data.pkl.gz # Movie dataset
-│ └── sim.pkl.gz # Similarity model
-├── assets/
-│ ├── banner.png # Banner image for README
-│ └── screenshot.png # Screenshot of app
-
-├── requirements.txt # Python dependencies
-└── README.md
+📂 **Movie-Recommender-System**
+├── 📄 app.py
+├── 📂 Artifacts
+│   └── 📂 Models
+│       ├── 📄 data.pkl.gz
+│       └── 📄 sim.pkl.gz
+├── 📂 assets
+│   ├── 📄 banner.png
+│   └── 📄 screenshot.png
+├── 📄 requirements.txt
+└── 📄 README.md
 
 
 ---
