@@ -58,30 +58,29 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 
 1. **Clone the repository**
 
+- git clone https://github.com/Prabh10p/Movie-Recommender-System.git
+- cd Movie-Recommender-System
 
-git clone https://github.com/Prabh10p/Movie-Recommender-System.git
-cd Movie-Recommender-System
 
-
-2. **Create and activate a virtual environment** 
-python -m venv env
+2. **Create and activate a virtual environment**
+- python -m venv env
 # macOS/Linux
-source env/bin/activate
+- source env/bin/activate
 # Windows
-env\Scripts\activate
+- env\Scripts\activate
 
 3. **Install dependencies**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. **Set your TMDb API key**
 # macOS/Linux
-export MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
+- export MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
 # Windows
-set MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
+- set MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
 
 
 5. **Run the app with Streamlit**
-streamlit run app.py
+- streamlit run app.py
 
 # 💡 How it Works
 - The app uses a pre-trained similarity model (sim.pkl) to find movies similar to the selected movie.
