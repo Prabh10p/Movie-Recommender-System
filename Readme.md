@@ -73,10 +73,8 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 - pip install -r requirements.txt
 
 4. **Set your TMDb API key**
-# macOS/Linux
 - export MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
-# Windows
-- set MOVIES_API_TOKEN="YOUR_TMDB_API_KEY"
+
 
 
 5. **Run the app with Streamlit**
