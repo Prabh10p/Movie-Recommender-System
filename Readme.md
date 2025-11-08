@@ -41,14 +41,17 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 
 Movie-Recommender-System/
 │
+
 ├── app.py # Streamlit application
+
 ├── Artifacts/
 │ └── Models/
-│ ├── data.pkl # Movie dataset
-│ └── sim.pkl # Similarity model
+│ ├── data.pkl.gz # Movie dataset
+│ └── sim.pkl.gz # Similarity model
 ├── assets/
 │ ├── banner.png # Banner image for README
 │ └── screenshot.png # Screenshot of app
+
 ├── requirements.txt # Python dependencies
 └── README.md
 
