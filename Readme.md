@@ -38,7 +38,7 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 ---
 
 ## 📂 Project Structure
-
+```
 📂 **Movie-Recommender-System**
 ├── 📄 app.py
 ├── 📂 Artifacts
@@ -50,7 +50,7 @@ Users can select a movie and receive **5 recommendations**, each with its **post
 │   └── 📄 screenshot.png
 ├── 📄 requirements.txt
 └── 📄 README.md
-
+```
 
 ---
 
